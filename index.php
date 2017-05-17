@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
     <head>
@@ -8,3 +9,8 @@
   <body>
 </body>
 </html>
+=======
+<?php
+phpinfo();
+?>
+>>>>>>> origin/master
